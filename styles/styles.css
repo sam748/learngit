@@ -1,0 +1,32 @@
+.header{
+    color: rgb(39, 7, 7);
+    font-size: 24px;
+    text-align: center;
+    background-color: rgb(235, 228, 228);
+    height: 100px;
+    padding: 20px;
+   
+}
+
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline; 
+}
+
+body{
+    font-family: Arial;
+    padding:20px;
+    background-color: white;
+}
+
+iframe{
+    
+    width: 97%;
+    height: 52vw;
+    margin-bottom: 20px;
+}
+
+div
